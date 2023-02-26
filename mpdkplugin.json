@@ -1,0 +1,39 @@
+{
+   "configFile": "/Users/mattiabonzi/test_mpdk/Moodle-plugin/plugin/mod_forsefunzia/mpdkplugin.json",
+   "name": "forsefunzia",
+   "shortname": "forsefunzia",
+   "component": "mod_forsefunzia",
+   "path": "/Users/mattiabonzi/test_mpdk/Moodle-plugin/plugin/mod_forsefunzia",
+   "relativePath": "/mod",
+   "type": "mod",
+   "version": "0.1.0",
+   "useGit": true,
+   "recipeFile": "/Users/mattiabonzi/test_mpdk/Moodle-plugin/plugin/mod_forsefunzia/recipe.yaml",
+   "defaultInstance": "xx",
+   "typeName": "Activity modules",
+   "useGrunt": true,
+   "description": "",
+   "requirements": {
+      "plugin": [],
+      "other": []
+   },
+   "screenshot": "",
+   "badge": [],
+   "owner": "",
+   "gitName": "",
+   "instances": [],
+   "versions": [
+      {
+         "version": "0.1.0",
+         "versionInt": "2023022600",
+         "branch": "",
+         "maturity": "MATURITY_ALPHA",
+         "moodleMinVersion": "2022112801",
+         "moodleMaxVersion": 0,
+         "moodleTestedVersion": [],
+         "pushed": false,
+         "link": "",
+         "released": false
+      }
+   ]
+}

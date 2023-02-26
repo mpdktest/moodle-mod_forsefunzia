@@ -1,0 +1,15 @@
+copyright: mpdktest <mattia+mpdktest@mattiabonzi.it>
+component: mod_forsefunzia
+release: 0.1.0
+version: '2023022600'
+requires: '2022112801'
+maturity: MATURITY_ALPHA
+name: forsefunzia
+privacy: true
+features:
+  - install
+  - uninstall
+  - settings
+  - license
+  - upgrade
+  - upgradelib
